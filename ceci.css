@@ -28,6 +28,10 @@ button {
   color: rgb(224, 201, 24) !important;
 }
 
+.blue {
+  color: rgb(71, 24, 224) !important;
+}
+
 .link__hover-effect {
   position: relative;
 }
